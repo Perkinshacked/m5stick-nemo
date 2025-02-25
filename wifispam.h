@@ -17,7 +17,7 @@ char ssids[]={};
 uint8_t mac[6];
 
 const char funnyssids[] PROGMEM = {
-  "Mom Use This One\n"
+  "Hacking daddy\n"
   "Abraham Linksys\n"
   "Benjamin FrankLAN\n"
   "Martin Router King\n"
